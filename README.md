@@ -59,4 +59,5 @@ npm run lint
   - `package.json` — npm-скрипты и зависимости
   - `vite.config.js` — конфигурация Vite
 
+<img width="974" height="585" alt="image" src="https://github.com/user-attachments/assets/bd1893e9-7c55-4211-96a1-7e81437b8ac7" />
 
